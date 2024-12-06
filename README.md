@@ -38,10 +38,3 @@ The project is designed for educational purposes and demonstrates the implementa
 - **Scalable Design**:
   - The logic can be extended to include additional features like AI opponents or custom rules.
 
----
-
-## How to Install and Run
-1. Clone the repository to your local machine:
-   ```bash
-   git clone <repository-url>
-   cd checkers-game-cpp
